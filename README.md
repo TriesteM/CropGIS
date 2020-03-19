@@ -1,2 +1,2 @@
 # CropGIS
-Identifying crop types from satellite images
+Identifying crop types from satellite images.

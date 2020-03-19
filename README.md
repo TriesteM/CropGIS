@@ -1,6 +1,5 @@
 # CropGIS
-Basic steps with comments and references to helper functions are found in 'projectAVHRR_p.R' file.
-
+Basic steps with comments and references to helper functions are found in projectAVHRR_p.R file. 
 Basic Steps:
 
 1) Import CDL layers from https://nassgeodata.gmu.edu/CropScape/ or https://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php.  

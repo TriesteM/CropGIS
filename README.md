@@ -1,5 +1,5 @@
 # CropGIS
-These steps, with code comments and references to helper functions, are found in projectAVHRR_p.R file. 
+These steps, with code comments and references to helper functions, are found in [projectAVHRR_p.R](projectAVHRR_p.R) file. 
 
 Basic Steps:
 

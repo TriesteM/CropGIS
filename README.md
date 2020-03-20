@@ -1,4 +1,7 @@
 # CropGIS
+
+This project was one part of a collaborative effort to develop a training algorithm for the classification of crop yield and health from satellite imagery.  Here, I simply identified those pixels in the satellite images that corresponded to specific crop locations in the USDA's Cropland Data Layers across multiple years.  These scripts do reference file/folder locations that will either need to be recreated or for which the code will need to be adjusted for use elsewhere.  However, some of the data management and steps for handling large image file processing/analysis may come in handy to anyone.
+
 These steps, with code comments and references to helper functions, are found in [projectAVHRR_p.R](projectAVHRR_p.R) file. 
 
 Basic Steps:

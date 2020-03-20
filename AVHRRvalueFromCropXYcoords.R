@@ -1,6 +1,7 @@
 
 # throws x,y points at AVHRR rasterbricks and returns the values found
 # saves very large vectors to disc
+# includes checks and warnings to keep collaborators from appending erroneously to spatial output files
 
 # set up-------------------------------------------------------------------
 
